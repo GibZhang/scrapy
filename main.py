@@ -7,8 +7,8 @@ def main():
     测试
     :return:
     """
-    dataSpider = DataSpider('https://www.douban.com/accounts/login?source=movie', '172886566@qq.com',
-                            '172886566@qq.com')
+    dataSpider = DataSpider('https://www.douban.com/accounts/login?source=movie', '****',
+                            '****')
     data = dataSpider.get_data("无问东西")
     moviefile = MovieCommentFile("无问东西")
     moviefile.write(data)
