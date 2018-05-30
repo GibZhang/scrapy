@@ -12,7 +12,7 @@
 **1、用selenium模拟登录豆瓣**
 
 **2、数据保存到文件**
-![数据文件](https://raw.githubusercontent.com/GibZhang/scrapy/master/movie.png)
+![数据文件](https://raw.githubusercontent.com/GibZhang/scrapy/master/moviecloud.png)
 
 **3、数据简单清洗**
 
